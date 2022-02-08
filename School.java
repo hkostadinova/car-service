@@ -17,7 +17,7 @@ import java.util.List;
 @Table(name = "school")
 public class School extends BaseEntity {
 
-    private String name;
+   // private String name;
 
     private int maxNumberOfStudents;
 
